@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="java/lib/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="java/lib/commons-lang-3.3.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/org.json-2.0.jar"/>
+	<classpathentry kind="lib" path="java/lib/rsuite-api-5.0.0.jar"/>
+	<classpathentry kind="lib" path="java/lib/rsuite-conf-utils-lib-0.0.1.jar"/>
+	<classpathentry kind="lib" path="java/lib/rsuite-message-props-lib-0.0.1.jar" sourcepath="/rsuite-message-props-lib"/>
+	<classpathentry kind="lib" path="java/lib/rsuite-operation-lib-0.0.1.jar"/>
+	<classpathentry kind="output" path="target"/>
+</classpath>
