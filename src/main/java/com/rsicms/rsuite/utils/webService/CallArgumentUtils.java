@@ -44,7 +44,7 @@ public class CallArgumentUtils {
    *        retained
    * @return List of call arguments that qualify.
    */
-  protected static List<CallArgument> getArgumentsWithSameNamePrefix(CallArgumentList args,
+  public static List<CallArgument> getArgumentsWithSameNamePrefix(CallArgumentList args,
       String prefix, boolean stripPrefix, boolean trimValue, boolean keepBlankStrings) {
     List<CallArgument> withPrefix = new ArrayList<CallArgument>();
     if (args != null) {
