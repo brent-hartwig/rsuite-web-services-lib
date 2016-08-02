@@ -16,7 +16,8 @@ public interface WebServiceUtilsConstants {
    * Property name specifying whether less severe messages should also be displayed in the CMS UI
    * when an error or warning message is displayed.
    */
-  String PROP_NAME_ALSO_DISPLAY_LESS_SEVERE_MESSAGES = "rsuite.wsu.also.display.less.severe.messages";
+  String PROP_NAME_ALSO_DISPLAY_LESS_SEVERE_MESSAGES =
+      "rsuite.wsu.also.display.less.severe.messages";
 
   /**
    * Default value for the {@link #PROP_NAME_ALSO_DISPLAY_LESS_SEVERE_MESSAGES} property.

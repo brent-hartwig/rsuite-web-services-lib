@@ -9,8 +9,8 @@ import com.rsicms.rsuite.utils.messsageProps.LibraryMessageProperties;
  */
 public class WebServiceUtilsMessageProperties extends LibraryMessageProperties {
 
-	public WebServiceUtilsMessageProperties() throws IOException {
-		super(WebServiceUtilsMessageProperties.class);
-	}
+  public WebServiceUtilsMessageProperties() throws IOException {
+    super(WebServiceUtilsMessageProperties.class);
+  }
 
 }
